@@ -50,7 +50,8 @@ function removedItems(item) {
 }
 
 
-//CONSOLE LOGS
+//CONSOLE LOGS------------------------------------------------------------
+
 // Used for the addItem function to console log the items added to basket 
 console.log('should say true', addItem('item'))
 // Used to display the items in the basket after add Items function
